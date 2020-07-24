@@ -1,2 +1,2 @@
-# My project's README
-"# nba_prediction" 
+# NBA prediction
+Predicting outcomes of NBA games using recurrent neural networks
